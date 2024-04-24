@@ -1,0 +1,15 @@
+# Updated on ----- Date: 24 April 2024 ; Time: 10.04 AM
+[submodule "."]
+    path = "."
+    url = https://github.com/abdullahmiraz/khuda-lagse.git
+
+# Updated on ----- Date: 24 April 2024 ; Time: 10.04 AM
+[submodule "backend"]
+    path = "backend"
+    url = https://github.com/abdullahmiraz/khuda-lagse-backend.git
+
+# Updated on ----- Date: 24 April 2024 ; Time: 10.04 AM
+[submodule "frontend"]
+    path = "frontend"
+    url = https://github.com/abdullahmiraz/khuda-lagse-frontend.git
+
